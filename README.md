@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
   
 
-![image-20231021163812037](C:\Users\wh\Desktop\badminton\images\image-20231021163812037.png)
+![image-20231021163812037](./images/image-20231021163812037.png)
 
 - 不用担心时间段问题，代码中已经处理过边界问题
 
