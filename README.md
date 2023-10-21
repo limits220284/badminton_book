@@ -1,12 +1,12 @@
 ## 不要传播，小心被拷打
+- 可以提前运行在电脑上
+- 需要手动支付(后续再加)
 
 ### 环境安装
 
 ```bash
 pip install -r requirements.txt
 ```
-
-
 
 ### config.json 配置
 
@@ -43,3 +43,6 @@ pip install -r requirements.txt
 
 
 ### 配置完环境之后，一键启动即可
+
+### 后续工作
+- 直接支付完毕，无需手工支付
