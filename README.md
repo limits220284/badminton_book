@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### 配置site.txt
 
-![image-20231021163421144](C:\Users\wh\Desktop\badminton\images\image-20231021163421144.png)
+![image-20231021163421144](.\images\image-20231021163421144.png)
 
 参数说明:
 
